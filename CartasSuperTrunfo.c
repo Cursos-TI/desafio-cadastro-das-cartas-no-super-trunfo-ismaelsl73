@@ -6,8 +6,9 @@
 // Siga os comentários para implementar cada parte do desafio.
 //Teste larissa
 
+/* função main inicia execução do desafio */
 int main() {
-    printf("Desafio Super Trunfo - Países!\n");        
+    printf("Desafio Super Trunfo - Países!\n");        // Desafio Super Trunfo
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
